@@ -1,1 +1,2 @@
 I created a git hub repo called basic_repo
+I then created 3 files, committed them to local repo then pushed them to github repo called basic_repo
